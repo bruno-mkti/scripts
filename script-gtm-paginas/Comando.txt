@@ -1,0 +1,6 @@
+Como executar:
+
+. Coloque esse arquivo no caminho das pastas
+. Edite o código GTM
+. Execute o comando:
+   python adicionar-gtm.py .
